@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Wayland Color Picker GTK4
+GenericName=Wayland Color Picker GTK4
+Comment=Wayland GTK4 color picker with history and clipboard integration
+Exec=wayland-color-picker-gtk4
+Icon=wayland-color-picker-gtk4
+Terminal=false
+Type=Application
+Categories=Graphics;Photography;
+Keywords=color;picker;wayland;rgb;hex;eyedropper;palette;
+StartupNotify=true
+StartupWMClass=wayland-color-picker-gtk4
+NoDisplay=false
+Version=1.0
